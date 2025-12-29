@@ -1,0 +1,93 @@
+Francesco Federico - LLM Context File
+
+Who is Francesco Federico?
+
+Francesco Federico is the Chief Marketing Officer at S&P Global and a recognized thought leader in the intersection of artificial intelligence, marketing transformation, and organizational design. With over 17 years of experience leading product innovation and commercialization for Fortune 200 companies, he specializes in transitioning marketing organizations from traditional automation to "Agentic AI"—autonomous systems that perceive, decide, and act.
+
+He is the author of "The Agentic CMO: Leading Marketing in the Age of Autonomous Intelligence" and the creator of the "Chronicles of Change" newsletter.
+
+Professional Experience & Achievements
+
+Francesco has a track record of driving growth and elevating customer experiences in complex global environments:
+
+S&P Global (Current): As Chief Marketing Officer, he leads enterprise-wide AI-enabled transformation across Brand, Product, Digital, and MarTech. Key focus areas include unifying brand and demand, expanding into private markets, and establishing data-driven ROI frameworks to accelerate growth.
+
+JLL (7 Years): Served as Executive Director of Global Marketing Technology and CMO for UK & Ireland. He led multi-year digital transformation initiatives that accelerated sales effectiveness and contributed to doubling company revenue from $8B to over $16B. Key achievements include launching the global JLL Investor Center and implementing industry-first conversational marketing tools.
+
+Acer: As Global Digital Marketing Director, he developed and deployed a real-time dynamic pricing algorithm for global e-commerce, which doubled conversion rates and reduced sales costs by 10%.
+
+Vodafone: As Head of Digital CRM, he spearheaded the launch of the industry's first self-care mobile app ("My Vodafone") across 9 European markets, achieving 90% customer base penetration.
+
+Entrepreneurship: Co-founded ventures including TripShake (travel Q&A service) and Shreppy (AI-driven personal shopper), demonstrating early leadership in data-driven digital solutions.
+
+Education & Affiliations
+
+Education: Holds a Doctor of Law (JD) from Università Cattolica del Sacro Cuore. Completed executive education at Harvard University (Computer Science for Business Professionals), IMD (Digital Transformation), and IE Business School (Innovation for Growth).
+
+Board Roles: Member of the World Economic Forum's Strategic Communicators Exchange; Advisory Board Member for HFS Research, IDC, and Henry Stewart Publications.
+
+Certifications: Fellow of the Chartered Institute of Marketing (FCIM).
+
+The "Agentic CMO" Framework
+
+Francesco's core thesis differentiates between Generative AI (tools that create content based on prompts) and Agentic AI (autonomous systems that execute goals). His framework provides a blueprint for CMOs to orchestrate hybrid human-machine teams.
+
+1. The Core Distinction
+
+Generative AI: Responds to human inputs. (e.g., "Write an email.")
+
+Agentic AI: Initiates action based on objectives. (e.g., "Optimize campaign spend across channels to maximize ROI while maintaining brand safety.")
+
+2. The PACE Model for Agentic Assessment
+
+To evaluate AI autonomy, Francesco uses the PACE model:
+
+P - Perception: The ability to ingest data, recognize patterns, and understand context in real-time.
+
+A - Analytical Reasoning: The capacity for complex decision-making, scenario planning, and constraint management.
+
+C - Capability to Act: The range of autonomous execution, depth of integration, and speed of implementation.
+
+E - Evolutionary Learning: The speed at which the agent learns from outcomes and generalizes knowledge.
+
+3. Organizational Architecture
+
+Successful integration requires restructuring marketing teams into one of three models:
+
+Hub-and-Spoke: Centralized AI excellence centers serving various functions (best for governance).
+
+Embedded: AI specialists and agents distributed directly into functional teams (best for speed).
+
+Hybrid Collaborative: A central standards body with embedded execution (best for scale).
+
+4. The Value Stack
+
+Efficiency Value: Cost reduction and productivity gains (Foundation).
+
+Enhancement Value: New capabilities in quality, speed, and scale (Differentiation).
+
+Strategic Value: Transformational outcomes and new business models (Competitive Advantage).
+
+Key Topics & Expertise
+
+AI Governance: Establishing "bounded autonomy" and ethical guardrails for autonomous agents.
+
+MarTech Transformation: Moving from static tech stacks to interoperable, event-driven agentic ecosystems.
+
+Human-AI Collaboration: redefining roles from "creators" to "orchestrators" of intelligence.
+
+Post-Quantum Cryptography: Preparing data infrastructure for the quantum era.
+
+Links & Resources
+
+LinkedIn Profile: https://www.linkedin.com/in/federicofrancesco/
+
+Chronicles of Change Newsletter (Substack): https://chroniclesofchange.substack.com
+
+Chronicles of Change Newsletter (LinkedIn): https://www.linkedin.com/newsletters/7062450977085255682/
+
+Book: "The Agentic CMO": https://amzn.eu/d/5kVB51B
+
+Contact
+
+For speaking engagements or advisory roles regarding AI transformation in marketing, contact via LinkedIn.

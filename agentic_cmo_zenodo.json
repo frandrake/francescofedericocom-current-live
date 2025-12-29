@@ -1,0 +1,57 @@
+{
+  "title": "The Agentic CMO: A playbook for the hybrid marketing team",
+  "creators": [
+    {
+      "name": "Federico, Francesco",
+      "affiliation": "S&P Global",
+      "orcid": ""
+    }
+  ],
+  "description": "<h1>The Agentic CMO: A Playbook for the Hybrid Marketing Team</h1> <p><strong>Abstract:</strong><br> This publication represents a seminal framework for the next evolution of marketing leadership: the transition from <em>Generative AI</em> (content creation) to <em>Agentic AI</em> (autonomous decision-making and execution). It argues that the 'Billion-Agent Economy' is imminent and provides a practical, architectural blueprint for Chief Marketing Officers (CMOs) to redesign their organizations, technology stacks, and governance models to accommodate autonomous digital colleagues.</p> <h2>Detailed Content Breakdown</h2> <h3>Part I: The Strategic Imperative</h3> <p>Defines the shift from 'Automation' to 'Autonomy'. It introduces the <strong>Autonomy Spectrum</strong> (Levels 1-4), distinguishing between rule-based automation, predictive AI, generative AI, and true agentic systems. It establishes the business case for 'Hybrid Intelligence'—systems where humans define strategy and empathy, while AI agents handle high-frequency decision-making.</p> <h3>Part II: Designing the Hybrid Organization</h3> <p>Provides architectural models for integrating AI agents into human teams. It explores three core organizational structures: <em>Hub-and-Spoke</em>, <em>Embedded</em>, and <em>Hybrid Collaborative</em>. It also defines emerging roles such as the 'AI Trainer', 'Prompt Engineer', and 'Algorithm Auditor'.</p> <h3>Part III: Implementation Excellence</h3> <p>A pragmatic guide to the <strong>Pilot-to-Scale Journey</strong>. It introduces the 'Crawl-Walk-Run' methodology adapted specifically for autonomous systems, focusing on data readiness, infrastructure scaling, and the critical transition from sandbox environments to enterprise-wide deployment.</p> <h3>Part IV: Leading the Future</h3> <p>Focuses on <strong>Ethical Leadership</strong> and <strong>Competitive Strategy</strong>. It addresses the 'Black Box' problem, algorithmic bias, and the necessity of 'Human-in-the-loop' vs. 'Human-on-the-loop' oversight mechanisms. It also covers preparation for Artificial General Intelligence (AGI) and the convergence of AI with Quantum Computing.</p> <h3>Part V: The Playbook</h3> <p>A tactical <strong>90-Day Transformation Plan</strong>, including week-by-week checklists for executive alignment, technical setup, team training, and pilot launches.</p> <hr> <h2>Core Frameworks & Methodologies</h2> <p>This reference contains definitions and implementation guides for the following proprietary frameworks:</p> <ul> <li><strong>The PACE Model:</strong> A diagnostic tool for assessing AI agent maturity across four dimensions: <em>Perception</em> (Data ingestion), <em>Analytical Reasoning</em> (Decision complexity), <em>Capability to Act</em> (Execution range), and <em>Evolutionary Learning</em> (Self-improvement).</li> <li><strong>The Agentic CMO Competency Model:</strong> A skills matrix identifying twelve critical competencies across four domains: <em>AI & Technical Fluency</em>, <em>Transformation Leadership</em>, <em>Ethical Governance</em>, and <em>Human-AI Integration</em>.</li> <li><strong>The Agentic Marketing Investment Canvas:</strong> A financial planning tool mapping efficiency gains, enhancement value, and transformation value against required investments in infrastructure and talent.</li> <li><strong>The Agentic Leadership Compass:</strong> A personal development framework for CMOs, assessing readiness in <em>Visionary Capability</em>, <em>Operational Excellence</em>, <em>Human-Centric Leadership</em>, and <em>Technical Fluency</em>.</li> <li><strong>Human-AI Collaborative Canvas:</strong> A design thinking tool for structuring hybrid workflows, defining hand-off points between human creatives and AI agents.</li> <li><strong>Marketing Skills Evolution Matrix:</strong> A strategic HR map categorizing skills into 'Enduring' (Human-only), 'Transformed' (AI-assisted), and 'Automated' (AI-led) to guide reskilling efforts.</li> <li><strong>AI-Enhanced Customer Journey Blueprint:</strong> A methodology for mapping customer touchpoints to identify opportunities for autonomous personalization versus human empathy.</li> <li><strong>Agentic Marketing Governance Charter:</strong> A template for establishing decision rights, quality assurance protocols, and ethical boundaries for autonomous systems.</li> </ul> <hr> <h2>Strategic Concepts</h2> <ul> <li><strong>The 'Ethical Gap':</strong> Strategies for managing the latency between AI decision speed and human oversight capabilities.</li> <li><strong>Acoustic Positioning:</strong> A competitive strategy for luxury/premium brands to differentiate through deliberately human-only service touchpoints.</li> <li><strong>Algorithmic Trust:</strong> Building confidence in autonomous systems through transparency, explainability, and performance consistency.</li> </ul>",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "publication_date": "2025-01-01",
+  "keywords": [
+    "Agentic AI",
+    "Chief Marketing Officer",
+    "Marketing Strategy",
+    "Artificial Intelligence",
+    "Organizational Design",
+    "Hybrid Intelligence",
+    "Marketing Transformation",
+    "AI Governance",
+    "PACE Model",
+    "Autonomous Marketing",
+    "MarTech Stack",
+    "Change Management",
+    "Algorithmic Bias",
+    "Customer Journey Orchestration",
+    "Digital Transformation",
+    "AI Ethics",
+    "Human-AI Collaboration",
+    "Generative AI",
+    "Predictive Analytics",
+    "Marketing Operations",
+    "Skill Reskilling"
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://amzn.eu/d/5kVB51B",
+      "relation": "isAlternateIdentifier",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://chroniclesofchange.substack.com",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.linkedin.com/in/federicofrancesco/",
+      "relation": "hasAuthor",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Francesco Federico is the Chief Marketing Officer at S&P Global and author of the newsletter 'Chronicles of Change'. This work synthesizes 17+ years of experience in digital entrepreneurship and enterprise transformation."
+}
