@@ -1,4 +1,4 @@
-Zenodo JSON Instructions
+Zenodo JSON Instructions:
 
 This package contains a metadata file (agentic_cmo_zenodo.json) designed for uploading your work or references to Zenodo.org. Zenodo is an open-access repository often used by researchers and thought leaders to create a permanent record (DOI) for their work.
 
